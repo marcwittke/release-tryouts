@@ -1,3 +1,4 @@
 Hello
 
-somthing added in chore branch
+something added in chore branch
+
